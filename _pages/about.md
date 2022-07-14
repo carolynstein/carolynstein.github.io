@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a postdoctoral researcher at the Stanford Institute for Economic Policy Research ([SIEPR](https://siepr.stanford.edu/)). I work on topics at the intersection of labor economics and the economics of science and innovation.
+Hello! I am an assistant professor at UC Berkeley, jointly appointed between the [Economic Analysis and Policy Group](https://haas.berkeley.edu/eap/) at the Haas School of Business and the [Department of Economics](https://www.econ.berkeley.edu/).
 
-In July 2022, I will join UC Berkeley as an assistant professor, jointly appointed between the [Haas School of Business](https://haas.berkeley.edu/eap/) and the [Department of Economics](https://www.econ.berkeley.edu/).
+My research focuses on the economics of science and innovation. I am interested in how the incentives that scientists face shape the production of new knowledge.
 
-You can reach me at cstein2@stanford.edu.
+You can reach me at carolyn_stein@berkeley.edu
 
 
