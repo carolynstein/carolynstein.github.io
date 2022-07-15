@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an assistant professor at UC Berkeley, jointly appointed between the [Economic Analysis and Policy Group](https://haas.berkeley.edu/eap/) at the Haas School of Business and the [Department of Economics](https://www.econ.berkeley.edu/).
+Hello! I am an assistant professor at UC Berkeley, jointly appointed between the [Haas School of Business](https://haas.berkeley.edu/eap/) and the [Department of Economics](https://www.econ.berkeley.edu/).
 
 My research focuses on the economics of science and innovation. I am interested in how the incentives that scientists face shape the production of new knowledge.
 
