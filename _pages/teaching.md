@@ -4,12 +4,9 @@ title: Teaching
 
 ---
 
-### Courses Taught
+### Microeconomics (MBA)
 
-
-**Microeconomics (MBA)**
-
-**The Economics of Science and Innovation (PhD)**
+### The Economics of Science and Innovation (PhD)
   - [week 1 slides]({{https://carolynstein.github.io}}/files/teaching/week1.pdf)
   - [week 2 slides]({{https://carolynstein.github.io}}/files/teaching/week2.pdf)
   - [week 3 slides]({{https://carolynstein.github.io}}/files/teaching/week3.pdf)
