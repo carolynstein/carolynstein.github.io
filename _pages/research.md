@@ -6,7 +6,7 @@ title: Research
 
 ### Working Papers
 
-[Scooped! Estimating Rewards for Priority in Science]({{https://carolynstein.github.io}}/files/papers/scooped.pdf) (with Ryan Hill), *revise & resubmit, Journal of Political Economy*.
+[Scooped! Estimating Rewards for Priority in Science]({{https://carolynstein.github.io}}/files/papers/scooped.pdf) (with Ryan Hill), *accepted, Journal of Political Economy*.
   - *Press coverage:* [Nature News](https://www.nature.com/articles/d41586-019-03648-4)
 
 [Race to the Bottom: Competition and Quality in Science]({{https://carolynstein.github.io}}/files/papers/comp_qual.pdf) (with Ryan Hill).
