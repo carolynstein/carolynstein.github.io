@@ -13,6 +13,8 @@ title: Research
   - Econimate [video summary](https://www.youtube.com/watch?v=tVHONMdMj6U&ab_channel=econimate)
   - SIEPR [policy brief](https://siepr.stanford.edu/publications/policy-brief/race-bottom-how-competition-publish-first-can-hurt-scientific-quality)
   - *Press coverage:* [Le Monde (in French!)](https://www.lemonde.fr/sciences/article/2022/05/03/quand-la-competition-nuit-gravement-a-la-qualite-de-la-recherche-scientifique_6124621_1650684.html)
+ 
+[The Wandering Scholars: Understanding the Heterogeneity of University Commercialization]({{https://carolynstein.github.io}}/files/papers/universities.pdf) (with Josh Lerner, Henry Manley, and Heidi Williams)
 
 [Adaptability and the Pivot Penalty in Science]({{https://carolynstein.github.io}}/files/papers/pivot.pdf) (with Ryan Hill, Yian Yin, Dashun Wang, and Benjamin F. Jones).
 
