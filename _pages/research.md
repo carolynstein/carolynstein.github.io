@@ -8,7 +8,7 @@ title: Research
 
 [Race to the Bottom: Competition and Quality in Science]({{https://carolynstein.github.io}}/files/papers/comp_qual.pdf)<br>
 (with Ryan Hill)<br>
-Revise & resubmit, *Quarterly Journal of Economics*<br>
+Accepted, *Quarterly Journal of Economics*<br>
 *Coverage:* [Econimate video summary](https://www.youtube.com/watch?v=tVHONMdMj6U&ab_channel=econimate),  [SIEPR policy brief](https://siepr.stanford.edu/publications/policy-brief/race-bottom-how-competition-publish-first-can-hurt-scientific-quality), [Le Monde (in French!)](https://www.lemonde.fr/sciences/article/2022/05/03/quand-la-competition-nuit-gravement-a-la-qualite-de-la-recherche-scientifique_6124621_1650684.html)
  
 [The Wandering Scholars: Understanding the Heterogeneity of University Commercialization]({{https://carolynstein.github.io}}/files/papers/universities.pdf)<br> 
