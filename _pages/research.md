@@ -21,12 +21,12 @@ Conditionally accepted, *Nature*
 [Race to the Bottom: Competition and Quality in Science]({{https://carolynstein.github.io}}/files/papers/comp_qual.pdf)<br>
 (with Ryan Hill)<br>
 Forthcoming, *Quarterly Journal of Economics*<br>
-[[Online Appendix]]({{https://carolynstein.github.io}}/files/papers/comp_qual_appendix.pdf) [[Replication Package]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KD7A8B)<br>
+[[Online Appendix]]({{https://carolynstein.github.io}}/files/papers/comp_qual_appendix.pdf) [[Replication Package]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KD7A8B) [[Slides]]({{https://carolynstein.github.io}}/files/papers/comp_qual_slides.pdf)<br>
 *Coverage:* [Econimate video summary](https://www.youtube.com/watch?v=tVHONMdMj6U&ab_channel=econimate),  [SIEPR policy brief](https://siepr.stanford.edu/publications/policy-brief/race-bottom-how-competition-publish-first-can-hurt-scientific-quality), [Le Monde (in French!)](https://www.lemonde.fr/sciences/article/2022/05/03/quand-la-competition-nuit-gravement-a-la-qualite-de-la-recherche-scientifique_6124621_1650684.html)
 
 [Scooped! Estimating Rewards for Priority in Science]({{https://carolynstein.github.io}}/files/papers/scooped.pdf)<br> 
 (with Ryan Hill)<br>
-2025, *Journal of Political Economy*, 113(3).<br>
+2025, *Journal of Political Economy*, 113(3): 793-845.<br>
 [[Online Appendix]]({{https://carolynstein.github.io}}/files/papers/scooped_appendix.pdf) [[Replication Package]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TJ5VCW)<br>
 *Coverage:* [Nature News](https://www.nature.com/articles/d41586-019-03648-4)<br>
 
