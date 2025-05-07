@@ -22,7 +22,7 @@ Forthcoming, *Nature*
 (with Ryan Hill)<br>
 2025, *Quarterly Journal of Economics*, 140(2): 1061-1110.<br>
 [[Online Appendix]]({{https://carolynstein.github.io}}/files/papers/comp_qual_appendix.pdf) [[Replication Package]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KD7A8B) [[Slides]]({{https://carolynstein.github.io}}/files/papers/comp_qual_slides.pdf)<br>
-*Coverage:* [Econimate video summary](https://www.youtube.com/watch?v=tVHONMdMj6U&ab_channel=econimate),  [SIEPR policy brief](https://siepr.stanford.edu/publications/policy-brief/race-bottom-how-competition-publish-first-can-hurt-scientific-quality), [Science](https://www.science.org/doi/10.1126/science.adx8699#sec-5), [Science](https://www.science.org/doi/10.1126/science.adx8699#sec-5), [Le Monde (in French!)](https://www.lemonde.fr/sciences/article/2022/05/03/quand-la-competition-nuit-gravement-a-la-qualite-de-la-recherche-scientifique_6124621_1650684.html)
+*Coverage:* [Econimate video summary](https://www.youtube.com/watch?v=tVHONMdMj6U&ab_channel=econimate),  [SIEPR policy brief](https://siepr.stanford.edu/publications/policy-brief/race-bottom-how-competition-publish-first-can-hurt-scientific-quality), [Science](https://www.science.org/doi/10.1126/science.adx8699#sec-5), [Le Monde (in French!)](https://www.lemonde.fr/sciences/article/2022/05/03/quand-la-competition-nuit-gravement-a-la-qualite-de-la-recherche-scientifique_6124621_1650684.html)
 
 [Scooped! Estimating Rewards for Priority in Science]({{https://carolynstein.github.io}}/files/papers/scooped.pdf)<br> 
 (with Ryan Hill)<br>
