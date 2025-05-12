@@ -13,7 +13,7 @@ Revise & resubmit, *Econometrica*<br>
 
 [The Pivot Penalty in Research]({{https://carolynstein.github.io}}/files/papers/pivot.pdf)<br>
 (with Ryan Hill, Yian Yin, Xizhao Wang, Dashun Wang, and Benjamin F. Jones)<br>
-Forthcoming, *Nature*
+
 
 
 ### Publications
