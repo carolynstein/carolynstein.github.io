@@ -11,16 +11,19 @@ title: Research
 Revise & resubmit, *Econometrica*<br>
 *Coverage:* [VoxEU](https://cepr.org/voxeu/columns/commercialisation-university-research-role-people-versus-place)
 
-[The Pivot Penalty in Research]({{https://carolynstein.github.io}}/files/papers/pivot.pdf)<br>
-(with Ryan Hill, Yian Yin, Xizhao Wang, Dashun Wang, and Benjamin F. Jones)<br>
-
 
 
 ### Publications
 
+[The Pivot Penalty in Research]({{https://carolynstein.github.io}}/files/papers/pivot.pdf)<br>
+(with Ryan Hill, Yian Yin, Xizhao Wang, Dashun Wang, and Benjamin F. Jones)<br>
+2025, *Nature*.<br>
+[[Supplementary Materials]]({{https://carolynstein.github.io}}/files/papers/pivot_appendix.pdf) [[Replication Package]](https://figshare.com/articles/dataset/PRELIMINARY_Replication_Materials_for_Adaptability_and_the_Pivot_Penalty_in_Science_and_Technology_/28074941?file=52711637)<br>
+*Coverage:* [Nature News](https://www.nature.com/articles/d41586-025-01664-1), [Times Higher Education](https://www.timeshighereducation.com/news/scientists-face-pivot-penalty-changing-research-focus)<br>
+
 [Race to the Bottom: Competition and Quality in Science]({{https://carolynstein.github.io}}/files/papers/comp_qual.pdf)<br>
 (with Ryan Hill)<br>
-2025, *Quarterly Journal of Economics*, 140(2): 1061-1110.<br>
+2025, *Quarterly Journal of Economics*, 140(2): 1111-1185.<br>
 [[Online Appendix]]({{https://carolynstein.github.io}}/files/papers/comp_qual_appendix.pdf) [[Replication Package]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KD7A8B) [[Slides]]({{https://carolynstein.github.io}}/files/papers/comp_qual_slides.pdf)<br>
 *Coverage:* [Econimate video summary](https://www.youtube.com/watch?v=tVHONMdMj6U&ab_channel=econimate),  [SIEPR policy brief](https://siepr.stanford.edu/publications/policy-brief/race-bottom-how-competition-publish-first-can-hurt-scientific-quality), [Science](https://www.science.org/doi/10.1126/science.adx8699#sec-5), [Le Monde (in French!)](https://www.lemonde.fr/sciences/article/2022/05/03/quand-la-competition-nuit-gravement-a-la-qualite-de-la-recherche-scientifique_6124621_1650684.html)
 
