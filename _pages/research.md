@@ -15,7 +15,7 @@ Revise & resubmit, *Econometrica*<br>
 
 ### Publications
 
-[The Pivot Penalty in Research]({{https://carolynstein.github.io}}/files/papers/pivot.pdf)<br>
+[The Pivot Penalty in Research]({{https://www.nature.com/articles/s41586-025-09048-1)<br>
 (with Ryan Hill, Yian Yin, Xizhao Wang, Dashun Wang, and Benjamin F. Jones)<br>
 2025, *Nature*.<br>
 [[Supplementary Materials]]({{https://carolynstein.github.io}}/files/papers/pivot_appendix.pdf) [[Replication Package]](https://figshare.com/articles/dataset/PRELIMINARY_Replication_Materials_for_Adaptability_and_the_Pivot_Penalty_in_Science_and_Technology_/28074941?file=52711637)<br>
