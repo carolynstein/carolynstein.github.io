@@ -8,7 +8,7 @@ title: Research
  
 [The Wandering Scholars: Understanding the Heterogeneity of University Commercialization]({{https://carolynstein.github.io}}/files/papers/universities.pdf)<br> 
 (with Josh Lerner, Henry Manley, and Heidi Williams)<br>
-Revise & resubmit, *Econometrica*<br>
+Conditionally accepted (subject to data review), *Econometrica*<br>
 *Coverage:* [VoxEU](https://cepr.org/voxeu/columns/commercialisation-university-research-role-people-versus-place)
 
 
@@ -17,7 +17,7 @@ Revise & resubmit, *Econometrica*<br>
 
 [The Pivot Penalty in Research](https://www.nature.com/articles/s41586-025-09048-1)<br>
 (with Ryan Hill, Yian Yin, Xizhao Wang, Dashun Wang, and Benjamin F. Jones)<br>
-2025, *Nature*.<br>
+2025, *Nature*, 642(8069): 999-1006.<br>
 [[Supplementary Materials]]({{https://carolynstein.github.io}}/files/papers/pivot_appendix.pdf) [[Replication Package]](https://figshare.com/articles/dataset/PRELIMINARY_Replication_Materials_for_Adaptability_and_the_Pivot_Penalty_in_Science_and_Technology_/28074941?file=52711637)<br>
 *Coverage:* [Nature News](https://www.nature.com/articles/d41586-025-01664-1), [Times Higher Education](https://www.timeshighereducation.com/news/scientists-face-pivot-penalty-changing-research-focus)<br>
 
@@ -37,6 +37,13 @@ Revise & resubmit, *Econometrica*<br>
 [Internalizing Externalities: Designing Effective Data Policies]({{https://carolynstein.github.io}}/files/papers/Hill_Stein_Williams_2020.pdf)<br> 
 (with Ryan Hill and Heidi Williams)<br>
 2020, *AEA Papers and Proceedings*
+
+### Selected Work in Progress
+Replication and Research Quality (with Matt Backus, Ted Miguel, and Lars Vilhuber)
+
+How Artificial Intelligence Shapes Science: Evidence from Structural Biology (with Ryan Hill)
+
+Competition, Secrecy, and Strategic Non-Disclosure in Science (with Ryan Hill)
 
 ### Resting Papers
 
