@@ -15,6 +15,6 @@ My research focuses on the economics of science and innovation. I am interested 
 You can reach me at carolyn_stein@berkeley.edu
 
 ### Hiring Update:
-I am hiring a full-time pre-doctoral research assistant jointly with [Cailin Slattery](https://cailinslattery.com/) to start in summer 2026. Posting can be found [here](https://static1.squarespace.com/static/5acd55db36099bfff90bf5d6/t/69311b5a4af4d75c30585ac5/1764825946537/Advertisement+for+Pre-Doc+Position+-+Slattery+and+Stein.pdf). Applications will be reviewed on a rolling basis, but for full consideration, apply by January 1. 
+I am hiring a full-time pre-doctoral research assistant jointly with [Cailin Slattery](https://cailinslattery.com/) to start in summer 2026. Posting can be found [here](https://aprecruit.berkeley.edu/JPF05272). Applications will be reviewed on a rolling basis, but for full consideration, apply by February 9. 
 
 
