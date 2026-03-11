@@ -5,16 +5,14 @@ title: Research
 ---
 
 ### Working Papers
+
+[How Artificial Intelligence Shapes Science: Evidence from AlphaFold]({{https://carolynstein.github.io}}/files/papers/alphafold.pdf)<br>
+(with Ryan Hill)
  
 [The Wandering Scholars: Understanding the Heterogeneity of University Commercialization]({{https://carolynstein.github.io}}/files/papers/universities.pdf)<br> 
 (with Josh Lerner, Henry Manley, and Heidi Williams)<br>
 Conditionally accepted (subject to data review), *Econometrica*<br>
 *Coverage:* [VoxEU](https://cepr.org/voxeu/columns/commercialisation-university-research-role-people-versus-place)
-
-[How Artificial Intelligence Shapes Science: Evidence from AlphaFold]({{https://carolynstein.github.io}}/files/papers/alphafold.pdf)<br>
-(with Ryan Hill)
-
-
 
 ### Publications
 
