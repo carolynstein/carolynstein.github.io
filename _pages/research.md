@@ -11,6 +11,9 @@ title: Research
 Conditionally accepted (subject to data review), *Econometrica*<br>
 *Coverage:* [VoxEU](https://cepr.org/voxeu/columns/commercialisation-university-research-role-people-versus-place)
 
+[How Artificial Intelligence Shapes Science: Evidence from AlphaFold]({{https://carolynstein.github.io}}/files/papers/alphafold.pdf)<br>
+(with Ryan Hill)
+
 
 
 ### Publications
@@ -40,8 +43,6 @@ Conditionally accepted (subject to data review), *Econometrica*<br>
 
 ### Selected Work in Progress
 Replication and Research Quality (with Matt Backus, Ted Miguel, and Lars Vilhuber)
-
-How Artificial Intelligence Shapes Science: Evidence from Structural Biology (with Ryan Hill)
 
 Competition, Secrecy, and Strategic Non-Disclosure in Science (with Ryan Hill)
 
