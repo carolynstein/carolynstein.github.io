@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carolyn Stein"
 title_separator          : "-"
 name                     : &name "Carolyn Stein"
-description              : &description "personal description"
+description              : &description "Assistant Professor of Economics, UC Berkeley. Research on the economics of science and innovation."
 url                      : https://carolynstein.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carolynstein/carolynstein.github.io"
@@ -85,6 +85,7 @@ author:
   bio              : "Assistant Professor"
   location         : "Berkeley, CA"
   employer         :
+  cv               : "/files/CV_CStein.pdf"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1sy8LAUAAAAJ&hl=en&oi=ao"
   email            : carolyn_stein@berkeley.edu
