@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(xargs -I {} basename {})",
+      "WebSearch",
+      "Bash(git add:*)"
+    ]
+  }
+}
