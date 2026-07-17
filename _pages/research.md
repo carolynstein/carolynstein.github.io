@@ -6,7 +6,7 @@ title: Research
 
 ### Working Papers
 
-[How Artificial Intelligence Shapes Science: Evidence from AlphaFold](/files/papers/alphafold.pdf)<br>
+[How Artificial Intelligence Shapes Science: Evidence from AlphaFold](/files/papers/alphafold.pdf) [Updated 7/26]<br>
 (with Ryan Hill)
  
 [The Wandering Scholars: Understanding the Heterogeneity of University Commercialization](/files/papers/universities.pdf)<br> 

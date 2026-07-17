@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an assistant professor at UC Berkeley, jointly appointed between the [Haas School of Business](https://haas.berkeley.edu/eap/) and the [Department of Economics](https://www.econ.berkeley.edu/). In Spring of 2026, I am on leave at the [Becker Friedman Institute](https://bfi.uchicago.edu/).
+Hello! I am an assistant professor at UC Berkeley, jointly appointed between the [Haas School of Business](https://haas.berkeley.edu/eap/) and the [Department of Economics](https://www.econ.berkeley.edu/). I am also a faculty research fellow at the [NBER](https://www.nber.org/).
 
 My research focuses on the economics of science and innovation. I am interested in how the incentives that scientists face shape the production of new knowledge.
 
