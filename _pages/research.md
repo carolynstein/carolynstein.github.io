@@ -7,7 +7,7 @@ title: Research
 
 [How Artificial Intelligence Shapes Science: Evidence from AlphaFold](/files/papers/alphafold.pdf) [Updated July 2026]<br>
 (with Ryan Hill)<br>
-*Coverage:* [NBER Digest](https://www.nber.org/digest/202608/ai-tools-and-scientific-innovation?page=1&perPage=50)
+*Coverage:* [NBER Digest](https://www.nber.org/digest/202608/ai-tools-and-scientific-innovation?page=1&perPage=50), [Noahpinion](https://www.noahpinion.blog/p/roundup-86-unintended-consequences), [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/what-happens-when-ai-transforms-a-specialized-field-overnight), [Haas News](https://newsroom.haas.berkeley.edu/research/ai-is-expanding-the-boundaries-of-biological-research-will-drug-development-follow/)
 
 ### Publications
 
@@ -21,7 +21,7 @@ forthcoming, *Econometrica*<br>
 (with Ryan Hill, Yian Yin, Xizhao Wang, Dashun Wang, and Benjamin F. Jones)<br>
 2025, *Nature*, 642(8069): 999-1006.<br>
 [[Supplementary Materials]](/files/papers/pivot_appendix.pdf) [[Replication Package]](https://figshare.com/articles/dataset/PRELIMINARY_Replication_Materials_for_Adaptability_and_the_Pivot_Penalty_in_Science_and_Technology_/28074941?file=52711637)<br>
-*Coverage:* [Nature News](https://www.nature.com/articles/d41586-025-01664-1), [Times Higher Education](https://www.timeshighereducation.com/news/scientists-face-pivot-penalty-changing-research-focus)
+*Coverage:* [Nature News](https://www.nature.com/articles/d41586-025-01664-1), [Times Higher Education](https://www.timeshighereducation.com/news/scientists-face-pivot-penalty-changing-research-focus), [Kellogg Insight](https://insight.kellogg.northwestern.edu/article/when-experts-pivot-they-pay-a-price), [Physics World](https://physicsworld.com/a/thinking-of-switching-research-fields-beware-the-citation-pivot-penalty-revealed-by-new-study/)
 
 [Race to the Bottom: Competition and Quality in Science](/files/papers/comp_qual.pdf)<br>
 (with Ryan Hill)<br>
