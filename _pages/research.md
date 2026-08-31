@@ -14,7 +14,7 @@ title: Research
 [The Wandering Scholars: Understanding the Heterogeneity of University Commercialization](/files/papers/universities.pdf)<br>
 (with Josh Lerner, Henry Manley, and Heidi Williams)<br>
 forthcoming, *Econometrica*<br>
-[[Supplementary Materials]](/files/papers/universities_supplement.pdf) [[Replication Package]](https://zenodo.org/records/17387697)<br>
+[[Supplementary Materials]](/files/papers/universities_supplement.pdf) [[Replication Package]](https://zenodo.org/records/17387697) [[Slides]](/files/papers/universities_slides.pdf)<br>
 *Coverage:* [VoxEU](https://cepr.org/voxeu/columns/commercialisation-university-research-role-people-versus-place), [NBER Bulletin on Entrepreneurship](https://www.nber.org/be/20241/explaining-geographic-disparities-commercialization-academic-research?page=1&perPage=50)
 
 [The Pivot Penalty in Research](https://www.nature.com/articles/s41586-025-09048-1)<br>
