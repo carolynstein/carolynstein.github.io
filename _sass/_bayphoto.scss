@@ -1,0 +1,134 @@
+/* ==========================================================================
+   FOOTER PHOTO
+   A full-width photograph anchored to the bottom of every page. Its faint top
+   reaches up behind the last of the page text and dissolves into the page, so
+   there is no edge where the picture "starts"; it simply resolves out of the
+   background as you scroll. The fade itself is driven by the small script in
+   _includes/footer/photo.html.
+   ========================================================================== */
+
+:root {
+  /* Total height of the photograph. */
+  --bay-photo-height: 92vh;
+
+  /* How far its faint top reaches up behind the page text. Text is allowed
+     over this much of the picture; everything below it stays clear. */
+  --bay-photo-overlap: 30vh;
+
+  /* How far the photo drifts up as it fades in. */
+  --bay-photo-drift: 40px;
+}
+
+/* The theme uses an old sticky-footer trick: .page__footer is absolutely
+   positioned at the bottom of <html> (_footer.scss), and body reserves a flat
+   9em of padding for it (_base.scss). That 9em still covers the copyright bar;
+   the rest of the reserve keeps text off everything but the photo's faint top. */
+body {
+  padding-bottom: calc(9em + var(--bay-photo-height) - var(--bay-photo-overlap));
+}
+
+.page__footer {
+  /* The hairline would otherwise cut straight across the fade. */
+  border-top: 0;
+
+  /* The theme fades the footer in on load. An opacity animation makes an
+     element a stacking context, which would trap the photograph inside the
+     footer's own layer -- and it has to be able to sit behind the page text.
+     The footer simply appears instead. */
+  -webkit-animation: none;
+          animation: none;
+}
+
+.bay-photo {
+  position: absolute;
+  left: 0;
+  right: 0;
+
+  /* Bottom edge meets the top of the copyright bar; the picture grows upward
+     from there, past the end of the text. */
+  bottom: 100%;
+  height: var(--bay-photo-height);
+  overflow: hidden;
+
+  /* Behind the page text. Nothing here paints a background of its own: the
+     photograph dissolves into whatever the page already is. */
+  z-index: -1;
+  pointer-events: none;
+}
+
+.bay-photo__img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+
+  /* The script drifts the photo downward by --bay-photo-drift while it is still
+     fading in. The extra height and matching negative margin mean that drift
+     can never expose a strip of background at either edge. */
+  height: calc(100% + var(--bay-photo-drift));
+  margin-top: calc(-1 * var(--bay-photo-drift));
+
+  object-position: 50% 62%;
+
+  /* The ramp finishes at 33% of the picture's height, which is just above the
+     San Francisco skyline in every window shape -- so the city, both bridges
+     and everything below them render at full strength.
+
+     The stops trace a smootherstep curve (6t^5 - 15t^4 + 10t^3) rather than a
+     straight line. It leaves at zero and arrives at one with the slope flat at
+     both ends, so neither the top of the picture nor the point where it reaches
+     full opacity has a gradient sharp enough to read as an edge; all the change
+     is gathered into the middle, where the sky is pale enough to hide it. */
+  -webkit-mask-image: linear-gradient(to bottom,
+              rgba(0, 0, 0, 0)     0%,
+              rgba(0, 0, 0, 0.009) 3%,
+              rgba(0, 0, 0, 0.058) 7%,
+              rgba(0, 0, 0, 0.163) 10%,
+              rgba(0, 0, 0, 0.317) 13%,
+              rgba(0, 0, 0, 0.5)   17%,
+              rgba(0, 0, 0, 0.683) 20%,
+              rgba(0, 0, 0, 0.837) 23%,
+              rgba(0, 0, 0, 0.942) 26%,
+              rgba(0, 0, 0, 0.991) 30%,
+              rgba(0, 0, 0, 1)     33%);
+          mask-image: linear-gradient(to bottom,
+              rgba(0, 0, 0, 0)     0%,
+              rgba(0, 0, 0, 0.009) 3%,
+              rgba(0, 0, 0, 0.058) 7%,
+              rgba(0, 0, 0, 0.163) 10%,
+              rgba(0, 0, 0, 0.317) 13%,
+              rgba(0, 0, 0, 0.5)   17%,
+              rgba(0, 0, 0, 0.683) 20%,
+              rgba(0, 0, 0, 0.837) 23%,
+              rgba(0, 0, 0, 0.942) 26%,
+              rgba(0, 0, 0, 0.991) 30%,
+              rgba(0, 0, 0, 1)     33%);
+
+  will-change: opacity, transform;
+}
+
+/* Phones: sized off the width, so the panorama stays readable instead of being
+   cropped to a narrow vertical slice. */
+@media (max-width: 600px) {
+  :root {
+    --bay-photo-height: 92vw;
+    --bay-photo-overlap: 22vw;
+  }
+}
+
+/* Without the script (JavaScript off, or reduced-motion preferred) the photo
+   simply sits there, fully visible. */
+@media (prefers-reduced-motion: reduce) {
+  .bay-photo__img {
+    transform: none;
+  }
+}
+
+@media print {
+  .bay-photo {
+    display: none;
+  }
+
+  body {
+    padding-bottom: 0;
+  }
+}

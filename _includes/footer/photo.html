@@ -1,0 +1,66 @@
+{% include base_path %}
+
+<!-- Bay photo band: sits above the copyright bar on every page. -->
+<div class="bay-photo">
+  <img class="bay-photo__img"
+       src="{{ base_path }}/files/bay-wide.jpg"
+       srcset="{{ base_path }}/files/bay-narrow.jpg 1200w, {{ base_path }}/files/bay-wide.jpg 2400w"
+       sizes="100vw"
+       loading="lazy"
+       decoding="async"
+       alt="The San Francisco Bay at sunset, seen from the Berkeley hills.">
+</div>
+
+<script>
+(function () {
+  var band = document.querySelector('.bay-photo');
+  if (!band) { return; }
+  var img = band.querySelector('.bay-photo__img');
+  if (!img) { return; }
+
+  /* Some people set their OS to minimize animation. Leave the photo alone:
+     the stylesheet already renders it fully visible and still. */
+  var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)');
+  if (reduceMotion && reduceMotion.matches) { return; }
+
+  var drift = parseFloat(getComputedStyle(band).getPropertyValue('--bay-photo-drift')) || 40;
+  var ticking = false;
+
+  /* Ease the ends so the photo doesn't arrive and stop abruptly. */
+  function smooth(t) { return t * t * (3 - 2 * t); }
+
+  function update() {
+    ticking = false;
+
+    var bandHeight = band.offsetHeight;
+    if (!bandHeight) { return; }
+
+    var top = band.getBoundingClientRect().top;
+    var viewportHeight = window.innerHeight || document.documentElement.clientHeight;
+
+    /* How far the band has risen into the window, measured in band-heights: 0
+       when its top edge first touches the bottom of the window, 1 once the
+       whole band is in view. Measuring against the band rather than the window
+       means the fade always finishes by the time you hit the bottom of the
+       page, however long or short that page happens to be. */
+    var progress = (viewportHeight - top) / bandHeight;
+    if (progress < 0) { progress = 0; }
+    if (progress > 1) { progress = 1; }
+    progress = smooth(progress);
+
+    img.style.opacity = progress;
+    img.style.transform = 'translate3d(0,' + ((1 - progress) * drift).toFixed(1) + 'px,0)';
+  }
+
+  function onScroll() {
+    if (!ticking) {
+      ticking = true;
+      window.requestAnimationFrame(update);
+    }
+  }
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', onScroll, { passive: true });
+  update();
+})();
+</script>
