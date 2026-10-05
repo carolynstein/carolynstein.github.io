@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an assistant professor at UC Berkeley, jointly appointed between the [Haas School of Business](https://haas.berkeley.edu/eap/) and the [Department of Economics](https://www.econ.berkeley.edu/). I am also a faculty research fellow at the [NBER](https://www.nber.org/).
+Hello! I am an assistant professor at UC Berkeley, jointly appointed between the [Haas School of Business](https://haas.berkeley.edu/eap/) and the [Department of Economics](https://www.econ.berkeley.edu/). I am also a faculty research fellow at the [NBER](https://www.nber.org/). I am currently on leave at the [Anthropic Institute](https://www.anthropic.com/institute).
 
 My research focuses on the economics of science and innovation. I am interested in how the incentives that scientists face shape the production of new knowledge.
 
