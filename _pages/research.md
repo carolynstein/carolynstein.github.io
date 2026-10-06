@@ -31,7 +31,7 @@ forthcoming, *Econometrica*<br>
 
 [Scooped! Estimating Rewards for Priority in Science](/files/papers/scooped.pdf)<br>
 (with Ryan Hill)<br>
-2025, *Journal of Political Economy*, 113(3): 793-845.<br>
+2025, *Journal of Political Economy*, 133(3): 793-845.<br>
 [[Online Appendix]](/files/papers/scooped_appendix.pdf) [[Replication Package]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TJ5VCW)<br>
 *Coverage:* [Nature News](https://www.nature.com/articles/d41586-019-03648-4)
 
